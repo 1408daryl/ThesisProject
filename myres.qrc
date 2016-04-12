@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/back.ico</file>
+        <file>Images/ref.png</file>
+        <file>Images/forward (2).png</file>
+        <file>Images/stop.png</file>
+        <file>Images/home (2).png</file>
+        <file>Images/about.png</file>
+        <file>Images/bookmarks.png</file>
+        <file>Images/close.png</file>
+        <file>Images/tab.png</file>
+        <file>Images/qt.png</file>
+        <file>Images/go.png</file>
+        <file>Images/Logo1.png</file>
+        <file>Images/forward.png</file>
+        <file>Images/1460360567_history.png</file>
+        <file>Images/1460360713_12.File.png</file>
+        <file>Images/1460360716_tab-duplicate.png</file>
+    </qresource>
+</RCC>
